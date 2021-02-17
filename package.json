@@ -1,5 +1,7 @@
 {
   "private": true,
+  "name": "ng2-dragula",
+  "version": "1.0",
   "scripts": {
     "demo.gh-pages": "run-s build demo.build demo.deploy",
     "demo.build": "cd modules/demo && ng build --prod",
